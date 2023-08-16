@@ -1,16 +1,8 @@
-# dicegame
+Dicee 🎲
 
-A new Flutter project.
+A Las Vegas dice app made using flutter. You can make the die roll at the press of a button. With this app in your pocket, you’ll be able to settle any score on the go!
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+https://github.com/root-sys/dicegame/assets/54510055/94be5c59-a9b6-44a6-b06d-29035f904d33
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
